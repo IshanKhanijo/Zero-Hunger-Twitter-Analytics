@@ -1,0 +1,10 @@
+# ignore everything by default
+*
+
+# allow only what we want to upload
+!.gitignore
+!README.md
+!21883191_BUS5PR1_Assignment2.ipynb
+!21883191_BUS5PR1_Assignmnt2_Report.pdf
+!images/
+!images/**
